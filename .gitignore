@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+
+# Build
+build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Executables
+zyn
+zyn.exe
