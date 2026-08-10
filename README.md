@@ -1,9 +1,10 @@
 ````markdown
 # Zyn
 
-A lightweight command-line file copying utility written in modern **C++20**.
+A lightweight command-line file copying utility written in modern C++20.
 
-Zyn provides a simple interface for copying files and directories with support for recursive copying and forced overwriting.
+Zyn provides a simple interface for copying files and directories with support for recursive
+copying and forced overwriting.
 
 ## Features
 
